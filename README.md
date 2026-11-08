@@ -1,16 +1,44 @@
-## Hi there 👋
+Hi, I'm Md Jakir Hossain 👋
 
-<!--
-**ZacksHub15/ZacksHub15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science student at the University of Roehampton
+🎓 BSc Computer Science graduate from Middlesex University (2:1)
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science graduate currently pursuing an MSc in Data Science. I'm interested in data analysis, data visualisation and using data to discover meaningful insights and solve real-world problems.
+
+I'm currently developing my skills in Python, data analysis and statistical techniques.
+
+Technical Skills
+
+Programming: Python, C++
+
+Data Analysis: Pandas, NumPy
+
+Data Visualisation: Matplotlib
+
+Core Knowledge: Statistics, Mathematics, Data Analysis
+
+Other Technologies: MongoDB, JavaScript, HTML, CSS
+
+Currently Learning
+
+Python for Data Science
+
+Data Analysis and Visualisation
+
+Statistical Techniques
+
+Machine Learning and Deep Learning (upcoming MSc subjects)
+
+Education
+
+MSc Data Science — University of Roehampton
+
+BSc Computer Science (2:1) — Middlesex University
+
+Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/jakir-hossain15/
+
+GitHub: https://github.com/ZacksHub15
